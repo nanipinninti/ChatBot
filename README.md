@@ -16,9 +16,7 @@ This project consists of two main parts: the `backend` and the `chat-bot` fronte
 ```
 ChatBot/
 ├── backend/
-│   ├── src/
-│   │   ├── index.js
-│   │   └── ...other backend files...
+│   ├──  index.js
 │   ├── .env
 │   ├── .gitignore
 │   └── package.json
